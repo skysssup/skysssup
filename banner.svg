@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="A courier robot on a daylight workbench">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Sky">
   <rect width="1200" height="340" fill="#f4efe4"/>
   <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
     <circle cx="1.2" cy="1.2" r="1.1" fill="#e3d6c4"/>
   </pattern>
   <rect width="1200" height="340" fill="url(#dots)"/>
   <text x="64" y="78" fill="#1b1714" font-family="Georgia, Palatino, serif" font-size="54" font-weight="700">Sky</text>
-  <text x="64" y="112" fill="#4a433b" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="16">reinforcement learning robots · local-first bench</text>
+  <text x="64" y="112" fill="#4a433b" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="16">reinforcement learning robots</text>
   <rect x="64" y="248" width="1072" height="10" rx="2" fill="#1b1714"/>
   <rect x="64" y="258" width="1072" height="4" fill="#d4530c"/>
   <!-- courier -->

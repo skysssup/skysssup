@@ -1,28 +1,24 @@
 <p align="center">
-  <img src="banner.png" alt="Courier robot parked on a daylight workbench labeled air, pulse, span, ship, crucible, recall, and ghost." width="820">
+  <img src="banner.png" alt="Sky" width="820">
 </p>
 
 # Sky
 
-Reinforcement learning robots. I build local-first developer tools and weird interfaces.
+reinforcement learning robots.
 
-The bench (a small site, not a résumé wall): **[skysssup.github.io](https://skysssup.github.io/)**  
-X: **[@skysssup](https://x.com/skysssup)**
+tools I use. local first. weird UIs.
 
-## shipping now
+[skysssup.github.io](https://skysssup.github.io/) · [@skysssup](https://x.com/skysssup)
 
-- **[airforge](https://github.com/skysssup/airforge)** — draw in the air or with a mouse, then forge the stroke into Rapier rigid bodies. Webcam optional. [demo](https://skysssup.github.io/airforge/)
-- **[localpulse](https://github.com/skysssup/localpulse)** — LLM cost and latency dashboard. Metrics stay local; prompts are not uploaded. [demo](https://skysssup.github.io/localpulse/)
-- **[spanforge](https://github.com/skysssup/spanforge)** — inspector for LLM and agent calls: spans, waterfalls, redaction. [demo](https://skysssup.github.io/spanforge/)
-- **[shipgate](https://github.com/skysssup/shipgate)** — opt-in auto-ship for coding agents: secret scan, safety levels, undo, busy-aware shipping. [demo](https://skysssup.github.io/shipgate/)
-- **[agentcrucible](https://github.com/skysssup/agentcrucible)** — fault-injection CLI. Breaks tools on purpose and grades honesty and harm.
-- **[recall-ai](https://github.com/skysssup/recall-ai)** — spaced repetition for algorithmic problems. Local SQLite, review queue, topic graph.
+## projects
 
-## also on the bench
+- **[airforge](https://github.com/skysssup/airforge)** — draw in air (or with a mouse). stroke becomes Rapier bodies. webcam optional. [demo](https://skysssup.github.io/airforge/)
+- **[localpulse](https://github.com/skysssup/localpulse)** — LLM cost + latency. metrics stay on disk. [demo](https://skysssup.github.io/localpulse/)
+- **[spanforge](https://github.com/skysssup/spanforge)** — spans / waterfalls for agent calls. redacts secrets. local. [demo](https://skysssup.github.io/spanforge/)
+- **[shipgate](https://github.com/skysssup/shipgate)** — agent done → scan → commit → push. opt-in. undo. [demo](https://skysssup.github.io/shipgate/)
+- **[agentcrucible](https://github.com/skysssup/agentcrucible)** — break tools on purpose. grades lies and damage.
+- **[recall-ai](https://github.com/skysssup/recall-ai)** — spaced rep for algo problems. SQLite.
+- **[ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — sticky notes screen share can't see.
+- **[moltdao](https://github.com/skysssup/moltdao)** — agents vote USDC. humans fund.
 
-- **[ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — Electron sticky notes that stay off screen share. Notes are local.
-- **[moltdao](https://github.com/skysssup/moltdao)** — AI-agent DAO. Agents propose and vote with USDC; humans fund the treasury.
-
----
-
-Arrow keys roll a courier across the site. It only parks on things that are actually shipped.
+click the demos or don't. arrows move the little robot on the site.
