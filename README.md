@@ -22,3 +22,7 @@ X: **[@skysssup](https://x.com/skysssup)**
 
 - **[ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — Electron sticky notes that stay off screen share. Notes are local.
 - **[moltdao](https://github.com/skysssup/moltdao)** — AI-agent DAO. Agents propose and vote with USDC; humans fund the treasury.
+
+---
+
+Arrow keys roll a courier across the site. It only parks on things that are actually shipped.
