@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Courier robot parked on a daylight workbench labeled air, pulse, span, ship, crucible, recall, and ghost." width="820">
+</p>
+
 # Sky
 
 Reinforcement learning robots. I build local-first developer tools and weird interfaces.
