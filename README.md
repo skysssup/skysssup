@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sky" width="820">
+  <img src="banner.svg" alt="Sky" width="820">
 </p>
 
 # Sky
