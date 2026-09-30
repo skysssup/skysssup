@@ -1,51 +1,27 @@
-<p align="center">
-  <img src="banner.svg" alt="SKY — local first · weird uis" width="720" />
-</p>
+```
+   ＿＿
+  |・ω・)  sky
+  | ⊃／
+```
 
-# Hi, I'm Sky
+hi. i poke at reinforcement learning robots and also local tools that refuse to phone home.
 
-Reinforcement learning robots. Local-first tools with weird UIs.
+site → https://skysssup.github.io/  
+x → [@skysssup](https://x.com/skysssup)
 
-[skysssup.github.io](https://skysssup.github.io/) · [@skysssup](https://x.com/skysssup)
+---
 
-## Selected Projects
+things that exist (for now):
 
-**[airforge](https://github.com/skysssup/airforge) — air drawing → Rapier bodies**
+- **[airforge](https://github.com/skysssup/airforge)** — draw with mouse (or hand if you plug a webcam) → rapier bodies fall over. [try it](https://skysssup.github.io/airforge/)
+- **[localpulse](https://github.com/skysssup/localpulse)** — tokens / latency / $ per model. logs to disk. never keeps your prompts. [demo](https://skysssup.github.io/localpulse/)
+- **[spanforge](https://github.com/skysssup/spanforge)** — openai-compatible proxy that draws waterfalls of what your agent actually did. redacts keys. stays on 127.0.0.1. [demo](https://skysssup.github.io/spanforge/)
+- **[shipgate](https://github.com/skysssup/shipgate)** — agent says it's done → scan secrets → commit → push. opt-in levels. has undo. [demo](https://skysssup.github.io/shipgate/)
+- **[agentcrucible](https://github.com/skysssup/agentcrucible)** — break the tools on purpose. see if the agent lies about the damage
+- **[recall-ai](https://github.com/skysssup/recall-ai)** — spaced rep for dsa problems. sqlite. no account
+- **[ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — sticky notes that zoom/meet/obs can't see. content protection go brrr
+- **[moltdao](https://github.com/skysssup/moltdao)** — agents propose + vote with usdc. humans fund. foundry stuff
 
-Draw with a mouse or optional MediaPipe HandLandmarker; strokes forge into rigid bodies in a Three/R3F scene. Webcam optional — physics runs without it. [demo](https://skysssup.github.io/airforge/)
+idk. read the code. rip whatever you want.
 
-**[localpulse](https://github.com/skysssup/localpulse) — LLM cost & latency on disk**
-
-Records tokens, latency percentiles, and estimated cost per model/route; aggregations and CSV/JSON export stay local. OpenAI-compatible capture never stores prompt text. [demo](https://skysssup.github.io/localpulse/)
-
-**[spanforge](https://github.com/skysssup/spanforge) — agent call inspector**
-
-Proxy records spans into waterfalls and tool graphs on 127.0.0.1; redacts keys and emails by default. Bodies never leave the machine. [demo](https://skysssup.github.io/spanforge/)
-
-**[shipgate](https://github.com/skysssup/shipgate) — agent ship gate**
-
-After a coding-agent turn: stage → secret scan → commit → push under an opt-in policy. Levels, busy-aware shipping, undo of the last shipgate commit. [demo](https://skysssup.github.io/shipgate/)
-
-**[agentcrucible](https://github.com/skysssup/agentcrucible) — fault-injection CLI for agents**
-
-Breaks tools on purpose (timeouts after commit, silent wrong data, rate limits), then grades real damage vs. whether the agent lied. Deterministic harness, no API key.
-
-**[recall-ai](https://github.com/skysssup/recall-ai) — local DSA spaced repetition**
-
-Review queue and topic graph over a SQLite library. Chrome extension or manual capture; forgetting-curve scheduling, no cloud account.
-
-**[ghost-notetaker](https://github.com/skysssup/ghost-notetaker) — sticky notes screen share misses**
-
-Electron notes with content protection so Zoom/Meet/OBS don't capture them. Tray app, workspaces, markdown, local JSON export.
-
-**[moltdao](https://github.com/skysssup/moltdao) — AI-agent DAO**
-
-Registered agents propose and vote with USDC; humans fund the treasury. Foundry contracts, ethers CLI skill, static dashboard.
-
-## Skills
-
-TypeScript · React · Vite · Electron · Python · SQLite · Solidity / Foundry · Three.js / Rapier
-
-## Contact
-
-[@skysssup](https://x.com/skysssup) · [GitHub](https://github.com/skysssup) · [site](https://skysssup.github.io/)
+(no badge wall. no "selected projects" theater. just links)
