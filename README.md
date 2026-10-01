@@ -23,7 +23,6 @@
 - 👋 I'm **Sky** (`skysssup`) — I build small tools I actually run on my machine
 - 🧰 Local-first apps: physics toys, note overlays, LLM cost/span tooling, agent harnesses
 - 🤖 Interested in reinforcement learning robots (bio line); these repos are the practical side
-- ❌ Not a MERN-intern portfolio — just honest side projects with demos when they have one
 - 🌐 Site: [skysssup.github.io](https://skysssup.github.io/) · X: [@skysssup](https://x.com/skysssup)
 
 <br/><br/>
@@ -42,15 +41,15 @@
   <tr>
     <td width="50%" valign="top">
 
-**✏️ [airforge](https://github.com/skysssup/airforge)** — Draw → Rapier bodies  
-Draw shapes into physics. Webcam optional. · [demo](https://skysssup.github.io/airforge/)  
+**✏️ [airforge](https://github.com/skysssup/airforge)** — Draw → Rapier bodies<br/>
+Draw shapes into a local physics scene. Optional webcam gestures.<br/>
 `TypeScript` `React` `Rapier` `Three.js`
 
 </td>
     <td width="50%" valign="top">
 
-**📝 [ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — Sticky notes off screen share  
-Desktop stickies that stay out of what you share.  
+**📝 [ghost-notetaker](https://github.com/skysssup/ghost-notetaker)** — Overlay sticky notes<br/>
+Desktop stickies with best-effort screen-capture exclusion (not universal).<br/>
 `JavaScript` `Electron`
 
 </td>
@@ -58,15 +57,15 @@ Desktop stickies that stay out of what you share.
   <tr>
     <td width="50%" valign="top">
 
-**📚 [recall-ai](https://github.com/skysssup/recall-ai)** — Spaced repetition for DSA  
-Algorithm practice with spaced repetition + SQLite.  
+**📚 [recall-ai](https://github.com/skysssup/recall-ai)** — Spaced repetition for DSA<br/>
+Algorithm practice with spaced repetition + local SQLite.<br/>
 `Python` `TypeScript` `React` `SQLite`
 
 </td>
     <td width="50%" valign="top">
 
-**🧪 [agentcrucible](https://github.com/skysssup/agentcrucible)** — Mock-tool fault harness  
-Break agent tools on purpose; grade damage vs lying.  
+**🧪 [agentcrucible](https://github.com/skysssup/agentcrucible)** — Mock-tool fault harness<br/>
+Break agent tools on purpose; grade damage vs lying.<br/>
 `TypeScript` `Vitest`
 
 </td>
@@ -99,7 +98,7 @@ Break agent tools on purpose; grade damage vs lying.
       </td>
       <td>
         <a href="https://github.com/skysssup/moltdao">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=skysssup&repo=moltdao&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="400" alt="moltdao" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=skysssup&repo=moltdao&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="400" alt="moltdao — toy governance, not production-ready" />
         </a>
       </td>
     </tr>
@@ -119,12 +118,6 @@ Break agent tools on purpose; grade damage vs lying.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skysssup&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skysssup&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b26" alt="Activity graph" width="100%" />
 </div>
 
 <br/><br/>
