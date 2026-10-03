@@ -7,6 +7,6 @@ A few projects:
 - [AirForge](https://github.com/skysssup/airforge) — draw shapes into a browser-based physics scene.
 - [AgentCrucible](https://github.com/skysssup/agentcrucible) — test scripted agent policies against faults in mock tools.
 - [Recall](https://github.com/skysssup/recall-ai) — spaced repetition for coding problems, with a local SQLite backend.
-- [Ghost Notetaker](https://github.com/skysssup/ghost-notetaker) — desktop sticky notes with optional screen-capture protection.
+- [Shipgate](https://github.com/skysssup/shipgate) — inspect staged changes for credential patterns before policy-controlled Git operations.
 
 [Website](https://skysssup.github.io/) · [X](https://x.com/skysssup)
